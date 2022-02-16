@@ -1,0 +1,96 @@
+EXTINF :-1,VEVO POP 
+https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8 
+EXTINF :-1,TWO KIDS TV
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8 
+EXTINF :-1,Twokids learning TV
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+EXTINF :-1,STL Gospeltv
+https://zm6gdaxeyn93-hls-live.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8 
+EXTINF :-1,Playerstv 
+https://playerstv-samsungca.amagi.tv/playlist.m3u8
+EXTINF :-1,Desi TV Hindi
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8 
+EXTINF :-1,OUTSIDE TV
+https://outside-tv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8 
+EXTINF :-1,MARVEL TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-nowthis/CDN/master.m3u8 
+EXTINF :-1,MOTORVISION TV
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-motorvisiontv/CDN/master.m3u8
+EXTINF :-1,INSIGHT TV 
+https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+EXTINF :-1,story TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-escapes/CDN/master.m3u8 
+EXTINF :-1,Football daily TV
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-footballdaily/CDN/master.m3u8
+EXTINF :-1,Flim TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
+EXTINF :-1,Tws TV
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
+EXTINF :-1,flim movies TV
+http://170.178.189.66:1935/live/Stream1/.m3u8
+EXTINF :-1,BEK TV
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+EXTINF :-1,JBS TV
+http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
+EXTINF :-1,Wayland gallery TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+EXTINF :-1,LAW AND CRIME DAILY 
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
+EXTINF :-1,ATL TV
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+EXTINF :-1,destination TV 
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+EXTINF :-1,SALES TV
+https://lsqvc3us-lh.akamaihd.net/i/lsqvc3us_01@809459/master.m3u8
+EXTINF :-1,Redbulltv 
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+EXTINF :-1,gospel TV
+http://rtv.cdn.mangomolo.com/rtv/smil:switch.smil/playlist.m3u8
+EXTINF :-1,safeTV
+http://18.191.91.130:1935/live/safetv/playlist.m3u8
+EXTINF :-1,LIVE SALES TV
+https://aos01-evine.secure.footprint.net/evine/cleanfeed/VIDEO_0_2064000.m3u8
+EXTINF :-1,Sky TV
+https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
+EXTINF :-1,COOKING CHANNEL 
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
+EXTINF :-1,TNN TV
+https://link.frontlayer.com/services/hls2/fl619843/index.m3u8
+EXTINF :-1,TMZ LIVE TV
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+EXTINF :-1,ABN TRINITY 
+http://rtmp1.abnsat.com/hls/trinity.m3u8
+EXTINF :-1,TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+EXTINF :-1,AdventureSports Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
+EXTINF :-1,Westernflims tv
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+EXTINF :-1,crimeTV
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
+EXTINF :-1,COOKING CHANNEL 2
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+EXTINF :-1,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+EXTINF :-1,Htv
+https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/chunklist_w444601733_b1628000.m3u8
+EXTINF :-1,Emci TV gospel
+https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8
+EXTINF :-1,Red Bull TV 2
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+EXTINF :-1,Sports TV
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?checkedby:iptvcat.net
+EXTINF :-1,Horse racing TV 
+http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8?checkedby:iptvcat.net
+EXTINF :-1,Akaal TV
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8?checkedby:iptvcat.com
+EXTINF :-1,TWOKIDS TV
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+EXTINF :-1,kids learning TV
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+EXTINF :-1,VEVO POP CLASSICS
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8
+EXTINF :-1,VEVO LATINO 
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+EXTINF :-1,WEATHERSPY TV
+https://jukin-weatherspy-2-ca.samsung.wurl.com/manifest/playlist.m3u8
